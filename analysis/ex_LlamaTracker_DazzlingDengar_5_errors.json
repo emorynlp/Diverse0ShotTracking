@@ -1,0 +1,11 @@
+{
+    "correct": 24, "correct inferred": 2,
+    "bot miss": 13,
+    "any": 12, "any vs no": 1,
+    "value change": 10,
+    "hallucination": 9,
+    "miss": 7,
+    "wrong value": 6,
+    "search semantics": 5,
+    "coreference": 2, "wrong slot": 4, "domain": 4, "value example": 1
+}

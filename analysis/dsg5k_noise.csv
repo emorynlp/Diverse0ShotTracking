@@ -1,0 +1,332 @@
+context,slot,value,annotation
+"Absolutely! What’s the title of the book you’re interested in?
+-  It’s called ""The Great Gatsby"" by F. Scott Fitzgerald.
+-  Great choice! Let me just check our system to see if we have any copies available. (Types on computer) Yes, we currently have two copies of ""The Great Gatsby"" on our shelves. Would you like me to go ahead and check it out for you?
+-  Yes, please. What’s the due date for return?
+-  The due date for this book is two weeks from today. Do you have your library card with you?
+-  Yes, here it is (hands over library card).
+-  (Scans card) Perfect, everything seems to be in order. Just a reminder, if you keep the book past the due date, you’ll incur late fees and fines. Would you like me to explain our late fees policy?
+-  Yes, please.
+-  Late fees are 10 cents per day and will accrue until the book is returned. If the fees exceed $5.00, borrowing privileges will be suspended until the fees are paid. Additionally, you may only renew the book once, unless no one else has placed a hold on it. Speaking of holds, would you like me to place a hold on this book for you?
+-  Not right now, but can you explain the procedure for placing a hold for me?
+-  Of course, you can either request a hold through our online catalog or in person at any of our library branches. You’ll need to provide your library card number and information about the specific book you want to put on hold. Once the book becomes available, we’ll notify you either through email, text message or a phone call. You can then pick up the book at your convenience.
+-  I see. Also, do you guys do interlibrary loans?
+-  Yes, we do. However, please note that there may be a wait time and a small fee for this service.
+-  Okay, thanks for letting me know. By the way, do you guys have any digital copies of ""The Great Gatsby?""
+-  Yes, we do! We offer a variety of digital resources that you can access and download for free using your library card. I can show you how to access them on our website if you’d like.
+-  That would be great, thank you. And one more thing, do you guys offer any assistance with research or finding materials?",offer assistance,?,vague
+"Alright, what's on your mind?
+-  Well, I've been working with the company for over three years now, and my job duties have increased significantly. I feel that my current salary of $45,000 per year doesn't quite reflect the value of my contributions and that I deserve a salary increase.
+-  I understand where you're coming from, but before we proceed further, let's review your performance last year. According to our evaluation, you exceeded expectations in all aspects, which is commendable.
+-  I appreciate that, but I also want to bring to your attention the market rates for similar jobs and salaries in the industry. Based on my research, the average salary for someone in my position with my qualifications, skills, and experience is around $55,000.
+-  I see. I know that the cost of living is increasing in the area, and you may have some financial needs and obligations outside of work. Is that correct?
+-  Yes, that's correct. I have a family to support, and with the rising cost of living, it's becoming increasingly difficult to make ends meet.
+-  I understand that having financial security is important to you, and I want to ensure you're motivated to continue producing excellent work. However, I also need to consider the availability of company resources for salary increases and our budget constraints.
+-  I understand that, Boss. But if my salary can be increased, it would greatly impact my motivation and productivity. It would make me feel valued, and that would reflect in the work I do.
+-  I completely agree. However, I also need to keep in mind the potential impact of salary increases on other employees' salaries. We have a strict compensation and benefits policy for all our employees, and we need to ensure we're consistent and fair across the board.
+-  That makes sense. I'm aware of it, but I also hope you consider my career goals and potential for advancement within the company. I aim to continue producing high-quality work and contributing to the company's growth, and I hope for a salary that reflects my dedication.
+-  I understand where you're coming from. I'll review your request and see if there's any room for negotiation. I appreciate you bringing this to my attention, and I will update you soon.",review request,Reviewed,vague
+"Roger that, Officer Brown. What’s your location?
+-  I’m at 123 Main St. Suspects are barricaded inside the building and are heavily armed. The situation is critical.
+-  Copy that. How many suspects are there?
+-  There are two suspects seen so far. They may be more.
+-  Got it. Please describe the suspects.
+-  Suspect 1 is a Caucasian male, mid-30s, wearing dark clothing. Suspect 2 is an African American male, early 40s, bald, with a red bandana.
+-  What is the level of threat?
+-  High. The suspects are heavily armed and have already fired on me. I am under heavy fire and need backup ASAP.
+-  Any weapons involved?
+-  Yes, they are armed with rifles and handguns.
+-  Are there any victims or hostages?",victims,?,
+"Of course, what kind of drink are you in the mood for?
+-  I'm feeling like a beer. Do you have any IPAs on tap?
+-  Yes, we have a local IPA on draft. Would you like a pint?
+-  Actually, could I get a smaller glass? I don't want to go too hard tonight.
+-  Sure thing. Would you like it with a lime wedge or anything else?
+-  No, just plain is fine. Could you make it a bit weaker than normal though?
+-  Sure thing. Do you have any dietary restrictions or allergies I should be aware of?
+-  Yes, I'm allergic to nuts, so if there's any garnish, please don't include any nuts.
+-  Noted, thank you for letting me know. How will you be paying for your drink?
+-  I have my card with me.
+-  Perfect. Is there anything else I can help you with, or anything you'd like me to add to your drink?
+-  Could I get it served in a frosted mug, please?
+-  Absolutely. And just so you know, we have a happy hour from 4 to 7 with our beer of the day for only $3.
+-  Oh, that sounds great! What's the beer of the day today?",interest in happy hour,True,
+,team,Marketing,
+,request,Backup,
+"Hi! I'm Mike, and it's great to meet you too.
+-  So, let's start with the script for the voiceover. Can you send it to me, please?
+-  Sure, here it is. It's a promotional video for a new mobile app called ""FeedMe.""
+-  Great. And can you tell me a bit more about the target audience for this app?
+-  Of course. The app is designed for busy professionals who need a quick meal on the go.
+-  Got it. And are there any specific words or phrases I should be aware of in terms of pronunciation?
+-  Yes, there are a few. The name of the app, ""FeedMe,"" should be emphasized, as well as the word ""convenient.""
+-  Okay, thanks for letting me know. And what kind of tone and style are you looking for in the voiceover performance?
+-  We want it to be upbeat and energetic, but also professional.
+-  Understood. And what are the timing and pacing requirements?
+-  The video is 60 seconds long, so we want the voiceover to be roughly the same length. Also, we want it to match the pace of the visuals.
+-  Sure, no problem. And what about the vocal qualities? Is there anything specific you're looking for in terms of pitch, resonance, etc?
+-  We want a female voice, and something in the medium-high range would be good.
+-  Okay, got it. And have you worked with any voiceover artists before that you particularly liked?
+-  Yes, actually. We worked with a voiceover artist named Rachel Jones on our last project, and we thought she did a great job.
+-  Thanks for letting me know. And what kind of equipment and studio setup do you have?
+-  We have a soundproof booth and top-of-the-line microphones. We'll be recording in our in-house studio.",soundproof booth available,Yes,
+"Of course, I'm excited to hear more about your start-up. Please start with your business plan.
+-  Our business plan includes our financial projections, product, and market research. We're offering a new meal kit delivery service that will focus on organic and locally sourced ingredients. Our market research showed a high demand for this type of service in our area, and we are confident that our product will stand out from competitors.
+-  Interesting. Can you share more about your financial projections and cash-flow?
+-  Absolutely. Our initial investment will cover the cost of marketing, product development, and salaries for our team. We anticipate reaching profitability by the end of our second year, and our projected revenue for year three is $5 million.
+-  Impressive. What is your team's qualifications and experience in the industry?
+-  Our team includes a chef with over 10 years of experience working with organic and locally sourced ingredients, a marketing manager with a successful track record in our industry, and a programmer with experience in meal kit delivery logistics.
+-  Great team. Can you tell me more about your competition analysis and marketing plans?
+-  Sure, our competition analysis showed that there are currently no local organic meal kit delivery services. We plan to target health-conscious consumers through social media marketing and partnerships with local gyms and wellness centers.
+-  Excellent. What is your growth strategy and exit plan for the company?
+-  Our growth strategy includes expanding into neighboring cities and potentially offering a restaurant featuring our products. As for an exit plan, we will consider acquisition offers or an IPO in the future.",consider IPO,"Yes, potential IPO",
+,need to do,Coordinate efforts,vague
+"Yes, that's me. Thank you for delivering it.
+-  You're welcome. May I please have your full name and address for verification purposes?
+-  Of course, my name is Sarah Johnson and my address is 123 Main Street.
+-  Thank you, Sarah. I have a package here for you from Amazon. Would you like me to bring it inside for you?
+-  No, thank you. Please leave it on the porch.
+-  Will do. Also, I noticed we had a delayed delivery for you last week. Do you still want me to deliver it now?
+-  Yes, please. My family was expecting that package.
+-  Great, I'll make sure to bring it back tomorrow. And just for my records, can you confirm the last name of the mail recipient or recipients for me?
+-  It's Johnson, same as mine.
+-  Thank you. And can you also provide any special instructions for future deliveries, such as a preferred delivery time or requiring a signature for delivery?
+-  No, regular delivery times work fine for me. But can you please make sure to deliver any packages to the front porch and any letters to the mailbox? And if I'm not home, please leave packages on the porch.
+-  Absolutely, I'll make sure to follow that. And lastly, do you need any additional mail services, such as forwarding or hold mail services?",package handling,Porch,
+"Hi, yes. My name is Sarah and I attended a public high school in California. I was very involved in the school's music program, participated in the debate team, and also volunteered at the local library.
+-  Great, it sounds like you were very active in your school community. Could you provide me with a copy of your academic transcripts and test scores?
+-  Sure, here you go. My overall GPA is a 3.7 and I got 1450 on my SAT.
+-  That's impressive. I also see that you submitted a personal essay and statement of purpose. Can you tell me a little about what you wrote?
+-  Yes, I talked about my passion for music and my goal of pursuing a career in music therapy.
+-  That's interesting. I'm glad to see you also included letters of recommendation from your music teacher and the library director where you volunteered. Can you tell me about any work experience or internships you may have had?
+-  Actually, I recently had an internship at a local hospital where I shadowed a music therapist.
+-  That's great experience. We also consider extracurricular activities and achievements. Did you receive any awards or honors in high school?
+-  Yes, I was awarded the Best Soloist award at the state music competition.
+-  Impressive. It sounds like you are very dedicated to your interests and have a clear career goal in mind. Can you share anything about your financial situation or if you plan to apply for scholarships?
+-  Yes, I will need financial aid and have already started researching scholarship opportunities.",financial situation,financial_aid_needed,
+"Sure! What's up?
+-  Well, I just wanted to get your thoughts on how things are going. We're about halfway through and I feel like we've hit a few bumps in the road.
+-  I understand. What's been going on?
+-  The objective was to develop a new marketing plan for our upcoming product launch. We've made some progress, but we're finding it difficult to nail down exactly what our target audience is looking for.
+-  I see. What strategies have you tried so far to overcome those challenges?
+-  We've done some focus groups, analyzed data from surveys, and interviewed a few customers. But it just seems like everyone has different opinions on what they want.
+-  That can definitely be a challenge. What's the scope of the project and when do you need to complete it by?
+-  We're trying to have a plan ready to go by the end of the month, so we have a couple of weeks to really nail this down.
+-  Got it. What's the expected outcome or results of the project?
+-  We want to have a solid plan that we can implement for the launch and have a successful rollout.
+-  That's understandable. Have you received any feedback or comments from other stakeholders?
+-  Yes, we've presented our initial findings to the marketing team and they had some really good questions and suggestions. We're taking those into account as we move forward.
+-  Great. Have you found any areas for improvement or potential ways to optimize the project?
+-  Well, I was thinking that maybe we could broaden our research and look at what our competitors are doing and what's working for them. Do you have any other suggestions?
+-  Actually, yeah. I think it might be helpful to involve some of our sales staff in the research process since they have direct contact with customers and might have some valuable insights.
+-  That's a great idea! I'll pitch that to the team. Thanks for your help, Sarah.
+-  Anytime. Good luck with the rest of the project!",future availability,Anytime,incorrect slot
+"Sure thing, what did you witness?
+-  Well, I was walking down Main Street about an hour ago when I saw two guys breaking into a store.
+-  Okay, can you describe what they looked like?
+-  One of them was tall and skinny, had long brown hair, and was wearing a black hoodie. The other one was shorter and stockier, had a shaved head, and was wearing a green jacket.
+-  Got it. Do you know if they had any weapons?
+-  Yes, the taller one had a crowbar and was using it to pry open the door.
+-  Do you happen to remember what kind of car they were driving?
+-  Yes, it was a white sedan parked in the alley next to the store.
+-  Great, and do you have any idea why they were breaking in?
+-  I overheard them talking about needing money to pay off their gambling debts.",money purpose,Gambling debts,
+"Of course, please tell me about your business idea.
+-  My start-up is called ""PetMeal"" and it's an app that connects pet owners with local restaurants that offer dog-friendly menus. We've done extensive market research and found that there's a growing demand for pet-friendly establishments, especially from millennials who treat their pets like family.
+-  I see. Who is your target market and how do you plan to generate revenue?
+-  Our target market consists of pet owners, especially in metropolitan areas with lots of restaurants. We plan to generate revenue through a commission-based model where we take a percentage of the profits from each sale made through our app.
+-  What is your personal experience and background in the industry?
+-  I've been working in the food and beverage industry for over 10 years, primarily in marketing and sales. In addition, I'm a huge pet lover and have noticed a gap in the market that I believe PetMeal can fill.
+-  What stage is your start-up currently in and how much funding do you need?
+-  We're currently in the pre-seed stage and we need $500,000 to get started. In exchange, we'd be offering a 20% stake in the company.
+-  How do you plan to use the funding to achieve various milestones?
+-  The funding would be used to develop and launch the app, as well as to run marketing campaigns to acquire customers. We're aiming to have 10,000 users by the end of our first year.
+-  What competition do you face and how do you plan to differentiate yourselves?
+-  While there are a handful of pet-friendly restaurant review apps, none of them specifically offer menus for dogs. We plan to differentiate ourselves by focusing solely on pet meals and building strong relationships with local restaurants.
+-  Can you tell me about your team and management structure?
+-  Currently, we have a team of 5, including myself as CEO. We have a CFO, marketing director, app developer, and a lead researcher who handles our market analysis and validation. We plan to hire more staff once we receive funding.",app dev,App Developer,
+Sure thing. Do you want me to top it up or just pump $30?,attendant knowledge,?,hallucination
+"""We just received an update. The fire is currently located in the southwest corner of the park, and it's moving northeast at a moderate speed.""
+-  ""What's the estimated size of the fire?""
+-  ""It's currently estimated to be about 5 acres in size.""
+-  ""Alright, we have one helicopter and two engine crews with us right now. What's the situation on your end?""
+-  ""We have a bulldozer and two more engine crews with us. We're also getting some additional air support in about 30 minutes.""
+-  ""Are there any evacuations or rescues needed so far?""
+-  ""No evacuations yet, but we have two hikers who got trapped near the east boundary. We're sending a crew to rescue them right now.""
+-  ""How's everyone's safety looking?""
+-  ""Right now, everyone's okay. But we need to make sure we're keeping an eye out for any sudden changes in the fire's behavior.""
+-  ""Have you seen any effects from the wind yet?""
+-  ""Yes, it's picking up right now from the southwest, and it's making the situation worse.""
+-  ""Alright, let's get started with our plan. We'll use the helicopter to drop some retardant around the perimeters, while the engine crews move in and create a fire break.""
+-  ""Sounds good. We'll use the bulldozer to cut a path and bring our engines in to create a secondary fire line.""",bulldozer purpose,cutting path,
+"Sure thing, what type of gasoline would you like today?
+-  Just regular, please.
+-  Great – how much would you like to purchase?
+-  I think I’ll go with $30 for right now.
+-  Okay, that’ll be $29.95. How will you be paying?
+-  Can I put it on my credit card?
+-  Absolutely. Can I have your name for the receipt?
+-  Sure, it’s Jane Smith.
+-  Perfect, thank you. And just so you know, we do have a rewards program. If you provide me with your phone number and email, I can sign you up for it.
+-  Oh, that sounds great.
+-  Great, I’ll go ahead and get that set up for you. Have you been to this location before?
+-  No, I’m just passing through.
+-  Well, welcome to the area! We do have some great restaurants and shopping nearby if you’re interested.
+-  Actually, I was wondering if you knew anything about the construction going on down the street. Will it affect me getting back on the highway?
+-  It might a bit. You could try taking a different exit and looping back around to avoid it.
+-  Okay, thank you for the heads up.
+-  No problem. And just so you’re aware, we do have a car wash and some snacks available if you need anything while you’re here.
+-  Great to know, thanks again.
+-  Of course. And just a safety precaution – be careful around the construction and stay safe on the road. Have a great day!",careful about,Construction,
+"Absolutely! What's the title of the book you're looking for?
+-  It's called ""The Great Gatsby"" by F. Scott Fitzgerald.
+-  Great choice! Do you know what format you'd like? We have hardcover, paperback, audiobook, and e-book.
+-  I'd like a hardcover copy please.
+-  Sure thing. Let me check if we have any available copies. Ah, it looks like we have one copy left on the shelves. It's located in the classic literature section, aisle 3, shelf 7.
+-  Thanks, that's helpful. Is it checked out right now?
+-  No, it's available for checkout. Would you like me to do that for you?
+-  Yes please. And when is it due?
+-  It will be due three weeks from today. That's December 15th. If you need longer, you can renew it online or over the phone.",time until due,Three weeks,
+"Hi, I'm looking for a new laptop. I'm not sure which one to get.
+-  Sure, let's see what we have. What are some features you're looking for in a laptop?
+-  I need something with a lot of storage and a good battery life.
+-  Our newest laptop, the Acer Swift 5, offers up to 1TB of storage and a battery life of up to 12 hours. It's also lightweight and has a fast processor.
+-  That sounds great, what are some of the benefits of this laptop?
+-  The Acer Swift 5 has a high-definition display and can handle multitasking with ease. It also has a backlit keyboard, making it easy to type in low light settings.
+-  Sounds good, what's the price on it?
+-  It's currently on sale for $899.99, down from $1,099.99.
+-  That's a pretty good deal. Is it in stock?
+-  Yes, we have a few in the back. And if you're not completely satisfied, we have a 30-day money-back guarantee.
+-  What are some comparable laptops on the market?
+-  The Dell XPS 13 and the HP Spectre x360 are both good options in this price range. However, the Acer Swift 5 stands out due to its lightweight design and long battery life.
+-  That's good to know. What about maintenance and care for the laptop?
+-  It's always a good idea to keep your laptop clean and dust-free, especially around the keyboard and vents. We also offer a two-year warranty that covers any hardware failure.
+-  That's reassuring. Have you used this laptop before?
+-  Yes, I've had a chance to test it out and I was impressed with its speed and portability.
+-  Thanks for your personal recommendation. Are there any current sales or promotions related to this laptop?
+-  Yes, you can currently get 10% off any accessories when you purchase this laptop. And if you use your store credit card, you can earn rewards points towards future purchases.
+-  That's great to hear. Is there a new version of this laptop coming out soon?
+-  We haven't heard any news about a new release yet, but we'll be sure to let you know if there is. And if any updates become available for this model, you'll be notified automatically.
+-  Thank you for all the information. It's been really helpful.",helpful info,true,
+"Sure. I’m thirty-two years old and I live in an apartment by myself. I work full-time as a graphic designer.
+-  Okay, thanks for sharing that with me. How about your mental health condition and symptoms? Can you tell me more about that?
+-  Well, I’ve been feeling really anxious lately. Especially at work, I get really nervous and I can’t concentrate on my tasks. Sometimes I have trouble sleeping because my mind is racing.
+-  I see. Have you had any previous experiences with mental health treatment or medication?
+-  Yes, actually. I was diagnosed with depression about five years ago and took medication for a while. It helped with my energy levels, but the side effects weren’t ideal. I also saw a therapist for a few months.
+-  Okay, thank you for telling me that. Can you describe your support network? Do you have any close friends or family members you can talk to about your struggles?
+-  I mean, I have some friends, but we don’t really talk about personal stuff. And my family lives across the country, so it’s hard to connect with them.
+-  I understand. Can you think of any triggers or underlying factors that might contribute to your anxiety and depression?
+-  Well, my job can be really stressful sometimes. Also, I recently broke up with my boyfriend of two years. It’s been hard to adjust to being single again.
+-  I can imagine that’s been difficult. Are there any coping mechanisms you’ve tried that have been helpful?
+-  Yoga and meditation help me relax sometimes. I also try to distract myself by watching movies or reading.
+-  Those are great strategies. What are your goals for therapy? What would you like to achieve?
+-  I just want to feel more in control of my emotions and thoughts. And I’d like to be able to manage my anxiety better.
+-  Okay, I think that’s achievable. Based on what you’ve shared with me, it sounds like you might be dealing with generalized anxiety disorder and depression. I’d like to explore that more and see if that’s an accurate diagnosis.
+-  Okay, that makes sense. I’m open to exploring different treatment options.
+-  Great. Before we end today’s session, can you tell me if you’re taking any medication for your mental health right now?
+-  Yes, I’m currently taking Zoloft. I started about a month ago.
+-  Got it. And lastly, is there anything else you’d like to share? Maybe something you’re struggling with in your daily routine?",current medication,Zoloft,
+"Of course, my name is Rachel Smith. My email is rachelsmith@email.com and my phone number is 555-1234.
+-  Great, thank you. Now let's dive into your academic qualifications. What was your high school GPA and do you have any SAT or ACT scores you would like to share?
+-  I had a 3.9 GPA and my SAT scores were 1350.
+-  Very impressive. What about extracurricular activities or work experience? Did you participate in any clubs or have any part-time jobs?
+-  I was the president of the Student Council and was also on the varsity cheerleading squad. I also worked part-time at a local coffee shop.
+-  Wow, you were very active in high school. Did you have any letters of recommendation from teachers or counselors?
+-  Yes, I have one from my math teacher and one from my guidance counselor.
+-  Perfect. And can you please tell me a bit about your educational goals and aspirations?
+-  I'm interested in studying marketing and hope to one day work in the fashion industry.
+-  That's great to hear. Do you have any questions or concerns about the admissions process or our school that I can help address?
+-  Yes, actually, I was wondering about financial aid eligibility. Are there any need-based aids available and how does the application process work?
+-  Absolutely. We offer need-based aid and to apply, you would need to fill out the FAFSA form. Can I ask if you have any special talents or awards that you would like to share?
+-  Oh yes, I almost forgot. I won first place in a state-wide performing arts competition for my solo dance performance.",performance,Solo dance,
+"Well, there are several things that come to mind. For starters, I think a lot of people around here are struggling to make ends meet. The average income is around $30,000 a year, and that's just not enough to cover all the bills, especially if you have kids. There are also a lot of people who don't have health insurance, so they end up putting off doctor visits until things get really bad.
+-  That's definitely a big concern. Are there any particular health issues that you've noticed are affecting a lot of people in this community?
+-  Yeah, I think obesity is a big problem here. There are a lot of fast food restaurants and not many healthy options. I know several people who have diabetes and high blood pressure.",personally affected,"Diabetes, high blood pressure",
+"Of course, it was our pleasure to support such a great cause. Can you tell me a little more about the purpose of the event?
+-  Absolutely. The event was a fundraising gala for our local homeless shelter, and we had over 500 attendees. It was held last Saturday at the Marriott, and we raised over $100,000 thanks to your generous contribution.
+-  Wow, that's fantastic. I'm so glad to hear that our sponsorship made a difference. How did everything else go?
+-  It was a huge success. We've been getting great feedback from attendees and stakeholders, and everyone had a great time. Your support really made a huge impact on the success of the event.",attendees enjoyed,Yes,
+"Hi there! I'm glad to hear that the event was a success. What can I do for you today?
+-  Well, first off, we really appreciate the generous donation of $500 that you made to our cause. It helped us to cover a lot of the event's expenses.
+-  Oh, it was no problem at all. I'm happy to support a good cause. Can you tell me more about the event? What was its purpose?
+-  Absolutely. Our event was a charity auction to raise funds for the local animal shelter. It was held at the community center and drew a crowd of over 200 people.",attendance count,Over 200 people.,
+"Yes please, I'm interested in purchasing a new pair of running shoes.
+-  Great! We have a wide selection of running shoes available. Let me know if there's a particular brand or style you're interested in.
+-  Actually, I'm not too familiar with all the different brands and styles. Can you tell me about some of the features and benefits of the shoes you have here?
+-  Sure thing. Some of our most popular shoes are the Nike Air Zoom Pegasus 38 and the Asics Gel-Kayano 28. The Pegasus 38 has a responsive Zoom Air unit in the heel and forefoot, providing cushioning and a springy feel, while the Gel-Kayano 28 has a shock-absorbing gel cushioning system that reduces impact during each step. Both of these shoes also have mesh uppers that provide breathability and comfort during those long runs.
+-  That sounds great. What are these shoes made of?
+-  The Pegasus 38 has a synthetic and mesh upper, while the Gel-Kayano 28 has a similar mesh construction with added synthetic overlays for additional support and durability.
+-  And how are these shoes made?
+-  Both shoes use advanced manufacturing techniques to ensure quality and consistency. Nike uses a blend of computer-aided design and 3D printing to craft the Pegasus, while Asics employs its proprietary Impact Guidance System to help create the Gel-Kayano.
+-  Interesting. Can you tell me more about how to take care of these shoes?
+-  Of course. It's important to regularly clean your shoes by wiping off dirt and mud with a damp cloth or brush. You can also remove the insoles and wash them separately. Make sure to let your shoes air dry and avoid putting them in the dryer, as this can damage the materials.
+-  Thank you for the advice. How much do these shoes cost?
+-  The Pegasus 38 is $120 and the Gel-Kayano 28 is $170.
+-  Wow, that's quite a range. Do you have any promotions going on right now?
+-  Actually, we have a special offer for loyalty program members. If you sign up for our program today, you can receive 15% off your purchase.
+-  That sounds like a great deal. What's your return policy like?
+-  We offer a 30-day return or exchange policy for all products, as long as they are in their original condition and packaging.
+-  That's good to know. And what about the warranty for these shoes?
+-  Both the Pegasus 38 and Gel-Kayano 28 come with a one-year limited warranty from the manufacturer, which covers any defects or issues with the materials or workmanship.
+-  Thank you for all this helpful information. I think I am ready to make my decision now. I'll take the Asics Gel-Kayano 28.",ready decision,Yes,
+"""We've got a fire at 45 Elm Street. It's a two-story building that's fully engulfed in flames.""
+-  ""Got it. What's the weather like?""
+-  ""It's pretty windy out here. We need to watch for errant flames and keep an eye on the direction the wind is blowing.""
+-  ""Okay, how large is the fire?""
+-  ""It's spread to the neighboring buildings, but we're working on containing it. We've got two teams trying to contain the blaze from all sides.""
+-  ""Any idea on the condition of the building?""
+-  ""It's an old structure. We need to be careful about its structural integrity. I don't know how much more it can take.""
+-  ""We need to be sure we have enough water for this. Do we have any nearby sources?""
+-  ""We're pulling from the hydrant on 3rd street. We need a couple more hoses, though. We're short-handed.""
+-  ""What about the wind direction?""
+-  ""It's blowing towards the park. We need to make sure nobody is caught in the crossfire.""
+-  ""Okay, let's make sure we're aware of everything going on. We need to know where our resources are at all times. Do we have enough equipment/tools?""
+-  ""We have the standard gear, but we could use some more axes to break down the doors.""
+-  ""What potential hazards or obstacles should we be watching for?""
+-  ""There's a lot of debris in the alley. We need to make sure we don't trip over anything and hurt ourselves.""
+-  ""How many of us are on scene?""
+-  ""There's 9 of us right now.""
+-  ""What about evacuation routes?""
+-  ""We're keeping an eye on the streets and making sure people don't get too close to the fire. We have plans in place.""
+-  ""Are there any injuries or casualties?""
+-  ""Luckily, no. Everyone evacuated before we got here.""
+-  ""How about progress on containment?""
+-  ""We're making headway, but it's slow going. We've got a lot of ground to cover.""
+-  ""Any updates on the flames or smoke?""",smoke updates,?,
+"Sure! What's up?
+-  Well, I just wanted to get your thoughts on how things are going. We're about halfway through and I feel like we've hit a few bumps in the road.
+-  I understand. What's been going on?
+-  The objective was to develop a new marketing plan for our upcoming product launch. We've made some progress, but we're finding it difficult to nail down exactly what our target audience is looking for.
+-  I see. What strategies have you tried so far to overcome those challenges?
+-  We've done some focus groups, analyzed data from surveys, and interviewed a few customers. But it just seems like everyone has different opinions on what they want.
+-  That can definitely be a challenge. What's the scope of the project and when do you need to complete it by?
+-  We're trying to have a plan ready to go by the end of the month, so we have a couple of weeks to really nail this down.
+-  Got it. What's the expected outcome or results of the project?
+-  We want to have a solid plan that we can implement for the launch and have a successful rollout.
+-  That's understandable. Have you received any feedback or comments from other stakeholders?
+-  Yes, we've presented our initial findings to the marketing team and they had some really good questions and suggestions. We're taking those into account as we move forward.
+-  Great. Have you found any areas for improvement or potential ways to optimize the project?
+-  Well, I was thinking that maybe we could broaden our research and look at what our competitors are doing and what's working for them. Do you have any other suggestions?
+-  Actually, yeah. I think it might be helpful to involve some of our sales staff in the research process since they have direct contact with customers and might have some valuable insights.",involve sales staff in research,Customer_insights,vague
+"Roger that, Officer Brown. What’s your location?
+-  I’m at 123 Main St. Suspects are barricaded inside the building and are heavily armed. The situation is critical.
+-  Copy that. How many suspects are there?
+-  There are two suspects seen so far. They may be more.
+-  Got it. Please describe the suspects.
+-  Suspect 1 is a Caucasian male, mid-30s, wearing dark clothing. Suspect 2 is an African American male, early 40s, bald, with a red bandana.
+-  What is the level of threat?
+-  High. The suspects are heavily armed and have already fired on me. I am under heavy fire and need backup ASAP.",backup arrival,?,hallucination
+"Great, let's go through these together. Can you start by discussing the land use and zoning regulations applicable to your proposed development?
+-  Of course. Our development will primarily be commercial with two floors of retail space and four floors of residential apartments. We have ensured that we comply with all the zoning regulations in the area.
+-  That's good to know. Have you completed any environmental impact assessments? If so, can you show us that documentation?
+-  Yes, we've done an environmental impact study which shows that our development will have minimal impact on the environment. Here's the copy of the report.
+-  Thank you. What about traffic assessments and plans for managing traffic?
+-  Yes, we have prepared a traffic assessment report, which includes a parking plan. We will be providing adequate parking for visitors, tenants, and staff and will ensure traffic management. Here is a copy of the report.
+-  Great, and what are your proposed building materials and methods?
+-  We are planning to use eco-friendly construction materials and efficient construction methods, which will ensure that our development is low-cost yet sustainable. Here's a detailed document outlining our plans.
+-  Okay. And what about the proposed location of entrances, exits, and loading areas?",proposed entrance locations,?,
+"Sure, I’d be happy to. What kind of job are you looking for?
+-  I have experience in social media marketing and content creation, but I’m open to learning about any roles in the industry.
+-  Well, there are definitely a lot of opportunities available in the industry right now. Have you updated your resume and cover letter recently?
+-  Yes, I have, but I’m always open to improving them. Do you have any advice on how I can make them stand out?
+-  Definitely, I suggest researching the companies you’re interested in and tailoring your resume and cover letter to their specific needs. It’s also important to highlight any specific skills or experience that sets you apart from other candidates.",advice resume cover letter stand out,"Research, tailor, highlight",

@@ -1,0 +1,5 @@
+setup,JGA,hotel,ho_ex,ho_m,restaurant,re_ex,re_m,attraction,at_ex,at_m,train,tr_ex,tr_m,taxi,ta_ex,ta_m
+llft3s,0.668,0.489,NobleMon_0,h,0.788,MysteriousWicket_0,h,0.768,VibrantShaak_0,h,0.761,ResilientMalachor_0,h,0.536,WondrousObiWan_0,h
+llbl3s,0.576,0.252,AudaciousRyloth_0,h,0.686,UnchartedRex_0,h,0.747,DauntlessLogray_0,h,0.713,RogueKiAdi_0,h,0.483,RelentlessBodhi_0,h
+llpt3s,0.238,0.097,CharismaticKessel_0,h,0.346,ExoticUmbara_0,h,0.307,UnchartedAnakin_0,h,0.319,SupernovaSullust_0,h,0.122,UntamedSerenno_0,h
+,0.184,0.049,EuphoricSarlacc_0,h,0.199,EnigmaticWatto_0,h,0.268,MysticalZeb_0,h,0.252,HeroicSarlacc_0,h,0.154,ExuberantSarlacc_0,h

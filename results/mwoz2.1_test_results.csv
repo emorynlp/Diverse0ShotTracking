@@ -1,0 +1,14 @@
+setup,JGA,hotel,ho_ex,ho_m,restaurant,re_ex,re_m,attraction,at_ex,at_m,train,tr_ex,tr_m,taxi,ta_ex,ta_m
+llama-finetune-sgd,0.563,0.404,GalacticPamarthe_0,h,0.658,DazzlingMonCala_0,h,0.651,EmboldenedDantooine_0,h,0.608,ResilientSabine_0,h,0.494,ResoluteKessel_0,h
+llft,0.562,0.438,EtherealCerea_0,h,0.647,BoldSorgan_0,h,0.631,EnthrallingDQar_0,h,0.608,IllustriousEadu_0,h,0.488,InfiniteUtapau_0,h
+filtered-llama-finetune-mwoz,0.561,0.420,BoldAjanKloss_0,h,0.645,SpectralPorg_0,h,0.655,FormidableNaboo_0,h,0.608,WiseGungan_0,h,0.479,RogueKylo_0,h
+flan-lora-all-dsg5k-finetune-mwoz,0.548,0.415,UnchartedCody_0,h,0.659,RadiantYavinIV_0,h,0.626,SereneTaris_0,h,0.569,EnthrallingPlo_0,h,0.474,MythicalBatuu_0,h
+flan-lora-all-baseline-mwoz,0.538,0.410,MysticalRex_0,h,0.640,ExuberantPadmé_0,h,0.613,LegendaryMustafar_0,h,0.594,RadiantPasaana_0,h,0.437,MysticalZam_0,h
+llama-finetune-sgd-filtered,0.534,0.368,StalwartKijimi_0,h,0.656,UnconquerableAthiss_0,h,0.655,DauntlessIG11_0,h,0.565,BewitchingPonda_0,h,0.430,ResoluteZeb_0,h
+llbl,0.518,0.388,IllustriousIG88_0,h,0.590,ElectricUtapau_0,h,0.554,FierceStewjon_0,h,0.612,BoldCantonica_0,h,0.448,HyperspaceZam_0,h
+t5-lora-all-dsg5k-finetune-mwoz,0.499,0.276,ValiantPaz_0,h,0.643,MythicalAjanKloss_0,h,0.611,ResplendentBespin_0,h,0.497,CunningSerenno_0,h,0.469,FearlessMygeeto_0,h
+t5-baseline-mwoz,0.474,0.253,ElectricMon_0,h,0.623,FiercePadmé_0,h,0.553,DauntlessBB9E_0,h,0.598,GalacticGreedo_0,h,0.344,FearlessSebulba_0,h
+t5-finetune-mwoz,0.470,0.264,InfiniteExegol_0,h,0.589,BewitchingKiAdi_0,h,0.602,UnconquerableJakku_0,h,0.545,UntamedJakku_0,h,0.355,TimelessFelucia_0,h
+t5-lora-all-baseline-mwoz,0.426,0.208,CunningAgamar_0,h,0.607,ThunderousNalHutta_0,h,0.557,MajesticPolisMassa_0,h,0.487,DaringEwok_0,h,0.272,MajesticRyloth_0,h
+llpt,0.236,0.116,SereneTatooII_0,h,0.377,ResilientDengar_0,h,0.284,ElectricSavage_0,h,0.272,RelentlessHera_0,h,0.131,ValiantK2SO_0,h
+,0.202,0.069,SereneAjanKloss_0,h,0.295,MysticalEwok_0,h,0.251,ThunderousDewback_0,h,0.249,ResoluteDooku_0,h,0.150,EtherealNute_0,h

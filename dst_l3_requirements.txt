@@ -1,0 +1,29 @@
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+# --find-links https://download.pytorch.org/whl/cu118
+--find-links https://download.pytorch.org/whl/cu121
+
+# requirements for llama 3
+
+# torch==2.3.1+cu118
+torch==2.3.1+cu121
+transformers[deepspeed]==4.43.4
+tokenizers==0.19.1
+accelerate==0.33.0
+peft==0.12.0
+bitsandbytes==0.43.3
+datasets==2.20.0
+
+scipy
+
+fire
+openai
+ezpyzy==0.2.0
+
+pytest
+
+fire
+termplot
+matplotlib
+fabric
+paramiko
